@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS/VueJS**
 
-- 📫 How to reach me **alihan9009@gmail.com**
+- 📫 How to reach me **alikhanirgaliyev99@gmail.com**
 
 - ⚡ Fun fact **Still don't know my level in the frontend!**
 
